@@ -1,6 +1,6 @@
 
 export default function Car() {
   return (
-    <div>car</div>
+    <div>cars</div>
   )
 }
