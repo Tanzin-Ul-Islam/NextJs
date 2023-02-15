@@ -15,6 +15,7 @@ export default function Home() {
       <main>
         <Link href='/'><h1>Home</h1></Link>
         <Link href='/users'><h1>Users</h1></Link>
+        <Link href='/blog'><h1>Blogs</h1></Link>
       </main>
     </>
   )
